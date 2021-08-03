@@ -16,3 +16,6 @@ I built this to have a simple but useful password generation tool based on a lon
 * Uses entropy(randomness generated) to guage password strength.
 * Creates strong passwords based upon random words.
 * Outputs to a file for later use
+
+## Command Line Output
+<img width="509" alt="Screen Shot 2021-08-03 at 6 00 59 PM" src="https://user-images.githubusercontent.com/47655454/128093600-814c74bf-c626-42b6-b4da-aa57525fc24f.png">
